@@ -26,8 +26,6 @@ Our API will expose the following RESTful endpoints.
 | PUT /todos/:id/items    | Update a todo item           |
 | DELETE /todos/:id/items | Delete a todo item           |
 
-|                         |                              |
-|-------------------------|------------------------------|
 
 
 ## Getting Started
