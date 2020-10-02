@@ -1,4 +1,5 @@
 require: rubocop-rspec
+require: rubocop-faker
 AllCops:
   Exclude:
     - "db/**/*"
